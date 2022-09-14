@@ -1,8 +1,11 @@
 ---
-layout: page
-title: About
+layout: post
+title: About site
 ---
 
-This is an example page!
+* content
+{:toc}
 
-It's very similar to a `post` layout, with the only difference that the publish date is not shown!
+## Introduction
+
+some description...
